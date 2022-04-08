@@ -44,7 +44,7 @@ Professor Bruno Campos CFB cursos
 - 35 : tag para conteúdo principal da página `<main>`
 - 36 : lista `<ul>`
 - 37 : itens de lista `<li>`
-- 38 :
+- 38 : corpo da página `<body>`
 - 39 :
 - 40 : 
 - 41 : Agrupamento de grupos individuais controle `<fieldset`
