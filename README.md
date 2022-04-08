@@ -41,8 +41,8 @@ Professor Bruno Campos CFB cursos
 - 33 : estilo da página direto no HTML `<style>`
 - 34 : escript de interação direto no HTML `<script>`
 - 35 : tag para conteúdo principal da página `<main>`
-- 36 : 
-- 37 :
+- 36 : lista `<ul>`
+- 37 : itens de lista `<li>`
 - 38 :
 - 39 :
 - 40 : 
