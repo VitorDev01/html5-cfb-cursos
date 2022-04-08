@@ -47,7 +47,7 @@ Professor Bruno Campos CFB cursos
 - 38 : corpo da página `<body>`
 - 39 : lista ordenada `<ol>`
 - 40 : ênfase `<strong>`
-- 41 : Agrupamento de grupos individuais controle `<fieldset`
+- 41 : Agrupamento de grupos individuais controle `<fieldset>`
 - 42 : formulário área de texto `<textarea>`
 - 43 : hierarquia das tags de título `h1 - h6`
 - 44 : [Google Fonts](https://fonts.google.com/)
@@ -64,6 +64,6 @@ Professor Bruno Campos CFB cursos
 - 55 : Define informações meta `<meta>`
 - 56 : área de navegação de links `<nav>`
 - 57 : adicionar pdfs swf áudio vídeo etc.. `<objects>`
-- 58 : criar um agrupamento de opções dentro do elemento <select> `<optgroup>`
+- 58 : criar um agrupamento de opções dentro do elemento select `<optgroup>`
 - 59 :
 - 60 :
