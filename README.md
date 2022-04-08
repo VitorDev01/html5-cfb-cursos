@@ -4,7 +4,7 @@ Professor Bruno Campos CFB cursos
 
 ![App Ideas Image](images.jpeg)
 
-## :ledger: Aulas 
+## :ledger: Aulas / Principais tags
 
 - 01 : Parágrafos `<p>`
 - 02 : títulos `<h1> / <h6>`
@@ -14,3 +14,7 @@ Professor Bruno Campos CFB cursos
 - 06 : mapeamento de imagem `<area> <map>`
 - 07 : textos e artigos `<article>`
 - 08 : `<aside>`
+- 09 : <audio> 🎶🎵
+- 10 : negrito `<b>`
+- 11 : caminho padrão `<base>`
+- 12 : 
