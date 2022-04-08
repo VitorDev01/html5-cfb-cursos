@@ -18,6 +18,11 @@ Professor Bruno Campos CFB cursos
 - 10 : negrito `<b>`
 - 11 : caminho padrão `<base>`
 - 12 : inversão de texto `<bdo>`
-- 13 : situações <cite>
+- 13 : sitações `<cite>`
 - 14 : quebra de linha <br>
-- 15 :
+- 15 : botões `<button`
+- 16 : 
+- 17 : 
+- 18 :
+- 19 :
+- 20 :
