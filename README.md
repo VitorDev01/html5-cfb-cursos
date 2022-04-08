@@ -42,11 +42,11 @@ Professor Bruno Campos CFB cursos
 - 33 : estilo da página direto no HTML `<style>`
 - 34 : escript de interação direto no HTML `<script>`
 - 35 : tag para conteúdo principal da página `<main>`
-- 36 : lista `<ul>`
+- 36 : lista desordenada`<ul>`
 - 37 : itens de lista `<li>`
 - 38 : corpo da página `<body>`
-- 39 :
-- 40 : 
+- 39 : lista ordenada `<ol>`
+- 40 : ênfase `<strong>`
 - 41 : Agrupamento de grupos individuais controle `<fieldset`
 - 42 : formulário área de texto `<textarea>`
 - 43 : hierarquia das tags de título `h1 - h6`
@@ -54,11 +54,11 @@ Professor Bruno Campos CFB cursos
 - 45 : Tag de cabeçalho do documento `<head>`
 - 46 : Tag introdutória de cabeçalho de uma seção `<header>`
 - 47 : linha Horizontal ----- `<hr>`
-- 48 : <DOCTYPE HTML> <html> tag Raiz 
+- 48 : `<DOCTYPE HTML>` `<html>` tag Raiz 
 - 49 : itálico `<i>` 
 - 50 : iframe para conteúdos externos e vídeos do YouTube `<iframe>`
 - 51 : tag para adicionar imagens 🖼️ `<img>`
 - 52 : tag para definição de conteúdo `<kbd>`
 - 53 : link adicionar arquivos Fonts etc.. `<link>`
 - 54 : marcar palavra ou frase como marca texto `<mark>`
-- 55 :
+- 55 : Define informações meta `<meta>`
