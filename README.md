@@ -14,20 +14,20 @@ Professor Bruno Campos CFB cursos
 - 06 : mapeamento de imagem `<area> <map>`
 - 07 : textos e artigos `<article>`
 - 08 : `<aside>`
-- 09 : <audio> 🎶🎵
+- 09 : `<audio>` 🎶🎵
 - 10 : negrito `<b>`
 - 11 : caminho padrão `<base>`
 - 12 : inversão de texto `<bdo>`
 - 13 : sitações `<cite>`
-- 14 : quebra de linha <br>
+- 14 : quebra de linha `<br>`
 - 15 : botões `<button>`
 - 16 : desenho `<canvas>`
 - 17 : `<code> <pre>`
-- 18 : `<del> `<ins>`
+- 18 : `<del>` `<ins>`
 - 19 : `<details> <summary>`
 - 20 : definição `<dfn>`
 - 21 : `<dialog>` 💬
-- 22 : 
+- 22 : contêiner genérico para conteúdo de fluxo `<div>`
 - 23 :
 - 24 :
 - 25 :
