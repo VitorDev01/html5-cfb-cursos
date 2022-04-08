@@ -52,3 +52,12 @@ Professor Bruno Campos CFB cursos
 - 44 : [Google Fonts](https://fonts.google.com/)
 - 45 : Tag de cabeçalho do documento `<head>`
 - 46 : Tag introdutória de cabeçalho de uma seção `<header>`
+- 47 : linha Horizontal ----- `<hr>`
+- 48 : <DOCTYPE HTML> <html> tag Raiz 
+- 49 : itálico `<i>` 
+- 50 : 
+- 51 :
+- 52 :
+- 53 :
+- 54 :
+- 55 :
