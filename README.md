@@ -22,12 +22,12 @@ Professor Bruno Campos CFB cursos
 - 14 : quebra de linha <br>
 - 15 : botões `<button>`
 - 16 : desenho `<canvas>`
-- 17 : 
-- 18 :
-- 19 :
-- 20 :
-- 21 :
-- 22 :
+- 17 : `<code> <pre>`
+- 18 : `<del> `<ins>`
+- 19 : `<details> <summary>`
+- 20 : definição `<dfn>`
+- 21 : `<dialog>` 💬
+- 22 : 
 - 23 :
 - 24 :
 - 25 :
