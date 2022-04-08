@@ -17,4 +17,7 @@ Professor Bruno Campos CFB cursos
 - 09 : <audio> 🎶🎵
 - 10 : negrito `<b>`
 - 11 : caminho padrão `<base>`
-- 12 : 
+- 12 : inversão de texto `<bdo>`
+- 13 : situações <cite>
+- 14 : quebra de linha <br>
+- 15 :
