@@ -20,9 +20,35 @@ Professor Bruno Campos CFB cursos
 - 12 : inversão de texto `<bdo>`
 - 13 : sitações `<cite>`
 - 14 : quebra de linha <br>
-- 15 : botões `<button`
-- 16 : 
+- 15 : botões `<button>`
+- 16 : desenho `<canvas>`
 - 17 : 
 - 18 :
 - 19 :
 - 20 :
+- 21 :
+- 22 :
+- 23 :
+- 24 :
+- 25 :
+- 26 :
+- 27 :
+- 28 :
+- 29 :
+- 30 :
+- 31 :
+- 32 :
+- 33 : 
+- 34 :
+- 35 :
+- 36 :
+- 37 :
+- 38 :
+- 39 :
+- 40 : 
+- 41 : Agrupamento de grupos individuais controle `<fieldset`
+- 42 : formulário área de texto `<textarea>`
+- 43 : hierarquia das tags de título `h1 - h6`
+- 44 : Google Fonts 
+- 45 : Tag de cabeçalho do documento `<head>`
+- 46 : Tag introdutória de cabeçalho de uma seção `<header>`
