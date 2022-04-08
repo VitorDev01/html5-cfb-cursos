@@ -2,6 +2,8 @@
 Arquivos das Aulas do Curso HTML5
 Professor Bruno Campos CFB cursos 
 
+`HTML5 (Hypertext Markup Language, atualmente em sua 5° versão) é uma linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet`
+
 ![App Ideas Image](images.jpeg)
 
 ## :ledger: Aulas / Principais tags
