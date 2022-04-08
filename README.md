@@ -68,4 +68,14 @@ Professor Bruno Campos CFB cursos
 - 57 : adicionar pdfs swf áudio vídeo etc.. `<objects>`
 - 58 : criar um agrupamento de opções dentro do elemento select `<optgroup>`
 - 59 : barra de progresso `<progress>`
-- 60 :
+- 60 : tag de citação `<q>`
+- 61 :
+- 62 : 
+- 63 : 
+- 64 :
+- 65 :
+- 66 : 
+- 67 :
+- 68 :
+- 69 :
+- 70 :
