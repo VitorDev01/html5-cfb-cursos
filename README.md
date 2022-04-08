@@ -11,3 +11,6 @@ Professor Bruno Campos CFB cursos
 - 03 : âncoras `<a>links 🔗⛓️`
 - 04 : abreviações `<abbr>`
 - 05 : endereço `<address>`
+- 06 : mapeamento de imagem `<area> <map>`
+- 07 : article `<article>`
+- 08 : `<aside>`
