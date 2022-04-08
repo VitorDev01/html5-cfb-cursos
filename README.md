@@ -34,10 +34,10 @@ Professor Bruno Campos CFB cursos
 - 26 : rodapé da página `<footer>`
 - 27 : tag formulário `<form>`
 - 28 : inputs `<input>`
-- 29 : 
-- 30 :
-- 31 :
-- 32 :
+- 29 : rótulo etiqueta `<label>` 🏷️
+- 30 : área de seleção `<select>`
+- 31 : opções `<option>` 
+- 32 : seções `<section>`
 - 33 : 
 - 34 :
 - 35 :
@@ -55,9 +55,9 @@ Professor Bruno Campos CFB cursos
 - 47 : linha Horizontal ----- `<hr>`
 - 48 : <DOCTYPE HTML> <html> tag Raiz 
 - 49 : itálico `<i>` 
-- 50 : 
-- 51 :
-- 52 :
-- 53 :
-- 54 :
+- 50 : iframe para conteúdos externos e vídeos do YouTube `<iframe>`
+- 51 : tag para adicionar imagens 🖼️ `<img>`
+- 52 : tag para definição de conteúdo `<kbd>`
+- 53 : link adicionar arquivos Fonts etc.. `<link>`
+- 54 : marcar palavra ou frase como marca texto `<mark>
 - 55 :
