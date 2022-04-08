@@ -38,10 +38,10 @@ Professor Bruno Campos CFB cursos
 - 30 : área de seleção `<select>`
 - 31 : opções `<option>` 
 - 32 : seções `<section>`
-- 33 : 
-- 34 :
-- 35 :
-- 36 :
+- 33 : estilo da página direto no HTML `<style>`
+- 34 : escript de interação direto no HTML `<script>`
+- 35 : tag para conteúdo principal da página `<main>`
+- 36 : 
 - 37 :
 - 38 :
 - 39 :
@@ -59,5 +59,5 @@ Professor Bruno Campos CFB cursos
 - 51 : tag para adicionar imagens 🖼️ `<img>`
 - 52 : tag para definição de conteúdo `<kbd>`
 - 53 : link adicionar arquivos Fonts etc.. `<link>`
-- 54 : marcar palavra ou frase como marca texto `<mark>
+- 54 : marcar palavra ou frase como marca texto `<mark>`
 - 55 :
