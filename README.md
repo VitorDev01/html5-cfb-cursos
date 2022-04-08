@@ -62,3 +62,4 @@ Professor Bruno Campos CFB cursos
 - 53 : link adicionar arquivos Fonts etc.. `<link>`
 - 54 : marcar palavra ou frase como marca texto `<mark>`
 - 55 : Define informações meta `<meta>`
+- 56 : área de navegação de links `<nav>`
