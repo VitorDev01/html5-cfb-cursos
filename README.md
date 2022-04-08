@@ -49,6 +49,6 @@ Professor Bruno Campos CFB cursos
 - 41 : Agrupamento de grupos individuais controle `<fieldset`
 - 42 : formulário área de texto `<textarea>`
 - 43 : hierarquia das tags de título `h1 - h6`
-- 44 : Google Fonts 
+- 44 : [Google Fonts](https://fonts.google.com/)
 - 45 : Tag de cabeçalho do documento `<head>`
 - 46 : Tag introdutória de cabeçalho de uma seção `<header>`
