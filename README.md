@@ -34,7 +34,7 @@ Professor Bruno Campos CFB cursos
 - 25 : incorporar conteúdo externo a página `<embed>`
 - 26 : rodapé da página `<footer>`
 - 27 : tag formulário `<form>`
-- 28 : inputs `<input>`
+- 28 : [inputs](https://github.com/VitorDev01/Inputs-html5) `<input>`
 - 29 : rótulo etiqueta `<label>` 🏷️
 - 30 : área de seleção `<select>`
 - 31 : opções `<option>` 
