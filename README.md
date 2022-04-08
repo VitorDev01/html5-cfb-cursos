@@ -29,12 +29,12 @@ Professor Bruno Campos CFB cursos
 - 21 : `<dialog>` 💬
 - 22 : contêiner genérico para conteúdo de fluxo `<div>`
 - 23 : lista de definição `<dl> <dt> <dd>`
-- 24 :
-- 25 :
-- 26 :
-- 27 :
-- 28 :
-- 29 :
+- 24 : formatação em ênfase `<em>`
+- 25 : incorporar conteúdo externo a página `<embed>`
+- 26 : rodapé da página `<footer>`
+- 27 : tag formulário `<form>`
+- 28 : inputs `<input>`
+- 29 : 
 - 30 :
 - 31 :
 - 32 :
