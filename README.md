@@ -63,3 +63,7 @@ Professor Bruno Campos CFB cursos
 - 54 : marcar palavra ou frase como marca texto `<mark>`
 - 55 : Define informações meta `<meta>`
 - 56 : área de navegação de links `<nav>`
+- 57 : adicionar pdfs swf áudio vídeo etc.. `<objects>`
+- 58 : criar um agrupamento de opções dentro do elemento <select> `<optgroup>`
+- 59 :
+- 60 :
