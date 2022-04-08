@@ -12,5 +12,5 @@ Professor Bruno Campos CFB cursos
 - 04 : abreviações `<abbr>`
 - 05 : endereço `<address>`
 - 06 : mapeamento de imagem `<area> <map>`
-- 07 : article `<article>`
+- 07 : textos e artigos `<article>`
 - 08 : `<aside>`
