@@ -28,7 +28,7 @@ Professor Bruno Campos CFB cursos
 - 20 : definição `<dfn>`
 - 21 : `<dialog>` 💬
 - 22 : contêiner genérico para conteúdo de fluxo `<div>`
-- 23 :
+- 23 : lista de definição `<dl> <dt> <dd>`
 - 24 :
 - 25 :
 - 26 :
